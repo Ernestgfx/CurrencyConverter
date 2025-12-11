@@ -29,10 +29,10 @@ A simple Android application that allows users to convert currencies using real-
 ### Main Screen
 ![Main Screen](screenshots/screen1.png)
 
-### Conversion Result
+### Currency Selection Menu
 ![Conversion Result](screenshots/screen2.png)
 
-### Currency Selection Menu
+### Conversion Result
 ![Currency Menu](screenshots/screen3.png)
 
 ### App Running on Emulator
